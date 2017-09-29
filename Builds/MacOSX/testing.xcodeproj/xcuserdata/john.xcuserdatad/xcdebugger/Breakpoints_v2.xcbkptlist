@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "528161093.218835"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "TestingAudioProcessor::processBlock (AudioSampleBuffer&amp; buffer, MidiBuffer&amp; midiMessages)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingAudioProcessor::processBlock(juce::AudioBuffer&lt;float&gt;&amp;, juce::MidiBuffer&amp;)"
+                  moduleName = "testing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/john/Documents/TestingPlugin/Source/PluginProcessor.cpp"
+                  timestampString = "528160534.769565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingAudioProcessor::processBlock(juce::AudioBuffer&lt;float&gt;&amp;, juce::MidiBuffer&amp;)"
+                  moduleName = "testing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/john/Documents/TestingPlugin/Source/PluginProcessor.cpp"
+                  timestampString = "528160534.773741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingAudioProcessor::processBlock(juce::AudioBuffer&lt;float&gt;&amp;, juce::MidiBuffer&amp;)"
+                  moduleName = "testing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/john/Documents/TestingPlugin/Source/PluginProcessor.cpp"
+                  timestampString = "528160534.77539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
